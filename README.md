@@ -44,11 +44,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=aadil-mk&label=Profile%20views&color=0e75b6&base=12000" alt="aadil-mk" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=edenzyn&label=Profile%20views&color=0e75b6&base=12000" alt="edenzyn" /></p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadil-mk&show_icons=true&hide_title=true&count_private=true&hide=prs" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadil-mk" alt="aadil-mk" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil-mk&hide_title=true&layout=compact&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edenzyn&show_icons=true&hide_title=true&count_private=true&hide=prs" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edenzyn" alt="edenzyn" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenzyn&hide_title=true&layout=compact&count_private=true" width="400" />
   <img src="https://leetcard.jacoblin.cool/Aadil_Mohammed?theme=white&font=Lexend%20Deca&extension=activity" width="400" />
 </div>
 
