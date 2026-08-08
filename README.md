@@ -72,4 +72,4 @@ I'm always excited to collaborate on:
 
 ## ⚡ Fun Facts
 
-- When I'm not coding, you can find me playing games or exploring game development on various platforms.
+- When I'm not coding, you can find me playing games or exploring development on various platforms.
