@@ -1,75 +1,73 @@
 <div align="center">
-  <h1>Hi there, I'm Aadil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
-
-  <img alt="Developer Pic" src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
-
-  ### Welcome to my GitHub profile! 👋
-
-  I'm a MERN stack developer with expertise in MongoDB, JavaScript, Node.js and React.js. Over the years, I've built various websites and web applications, and I'm always looking for new challenges to tackle.
-
-  Whether you're interested in my services, have a project you'd like to discuss, or just want to say hello, feel free to reach out!
-
-  ### Connect with Me 🤝
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-aadil-mk-37bbba2b1/)
-  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:edenxgt@gmail.com)
-  [![Telegram](https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/edenxgt)  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edenxgt/?hl=en)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@edenXgt/videos)
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:134E4A,100:0D9488&text=Hey%2C%20I%27m%20Aadil&fontColor=ffffff&fontSize=54&fontAlignY=34&desc=Full%20Stack%20Engineer&descSize=20&descAlignY=54&animation=fadeIn" alt="Hey, I'm Aadil, Full Stack Engineer" width="100%" />
 </div>
 
-## 🛠️ Tech Stack
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=520&height=40&lines=MERN+Stack+Developer;React+%C2%B7+Next.js+%C2%B7+React+Native;SA-MP+Scripter+in+PAWN" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=0D9488&center=true&vCenter=true&width=520&height=40&lines=MERN+Stack+Developer;React+%C2%B7+Next.js+%C2%B7+React+Native;SA-MP+Scripter+in+PAWN" alt="MERN Stack Developer, React, Next.js, React Native, SA-MP Scripter in PAWN" />
+  </picture>
+</p>
 
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
-![PAWN](https://img.shields.io/badge/PAWN-%23F7DF1E.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo1RUIxNjE1QjE2NzExMUUzQjRBOEI3NjQyNDYyMTU0QiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo1RUIxNjE1QzE2NzExMUUzQjRBOEI3NjQyNDYyMTU0QiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjIwMjQyRjYzMTY3MTExRTNCNEE4Qjc2NDI0NjIxNTRCIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjIwMjQyRjY0MTY3MTExRTNCNEE4Qjc2NDI0NjIxNTRCIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+f8P+MAAAAHhJREFUeNpi/P//PwMhwAQk7gPxfyCeBcRsQMwCxBxAzAvE/EAsCMQiQCwKxGJALA7EkkAsDcQyDIRUigGxPBArALEiECsBsTIQqwCxKhCrAbE6EGswEFKpCcRaQKwNxDpArAvEekCsD8QGQGzIQEilERAbA7EJQIABACq0Xu2hvB5WAAAAAElFTkSuQmCC&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![Three.js](https://img.shields.io/badge/three.js-%23800000.svg?&style=for-the-badge&logo=three.js&logoColor=white)
-![SCSS](https://img.shields.io/badge/scss-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-aadil-mk-37bbba2b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:aadilmk10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/edenxgt"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/edenxgt/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@edenXgt/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edenzyn&label=profile+views&color=0D9488&style=flat-square&base=12000" alt="Profile views" />
+</p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=edenzyn&label=Profile%20views&color=0e75b6&base=12000" alt="edenzyn" /></p>
+## About me
+
+I'm a full-stack engineer who works mostly in the MERN stack: MongoDB, Express, React and Node.js. I build websites and web apps end to end, and I also write SA-MP game modifications in PAWN.
+
+Open to collaborating on:
+
+- **Full-stack web projects**, especially on the MERN stack
+- **SA-MP game modifications** that push what PAWN scripting can do
+- **Open source projects** where I can contribute and learn from the community
+
+Got a project to discuss, or just want to say hello? Email me at [aadilmk10@gmail.com](mailto:aadilmk10@gmail.com) or find me on Discord as `edenzyn`.
+
+## Tech stack
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,java,c,react,nextjs,html,threejs,sass,bootstrap,tailwind,nodejs,express,mongodb,mysql,aws,git,github,postman&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,react,nextjs,html,threejs,sass,bootstrap,tailwind,nodejs,express,mongodb,mysql,aws,git,github,postman&perline=10&theme=light" alt="JavaScript, TypeScript, Python, Java, C, React, Next.js, HTML5, Three.js, SCSS, Bootstrap, Tailwind CSS, Node.js, Express, MongoDB, MySQL, AWS, Git, GitHub, Postman" />
+  </picture>
+</p>
+
+<p align="center">Plus <b>React Native</b> for mobile and <b>PAWN</b> for SA-MP scripting.</p>
+
+## GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=edenzyn&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&hide=issues&bg_color=00000000&icon_color=2DD4BF&ring_color=2DD4BF&text_color=C9D1D9" />
+    <img src="https://github-readme-stats.vercel.app/api?username=edenzyn&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&hide=issues&bg_color=00000000&icon_color=0D9488&ring_color=0D9488&text_color=24292F" alt="GitHub stats" width="58%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=edenzyn&layout=compact&hide_title=true&hide_border=true&langs_count=6&bg_color=00000000&text_color=C9D1D9" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenzyn&layout=compact&hide_title=true&hide_border=true&langs_count=6&bg_color=00000000&text_color=24292F" alt="Most used languages" width="39%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=edenzyn&hide_border=true&background=00000000&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
+    <img src="https://streak-stats.demolab.com/?user=edenzyn&hide_border=true&background=00000000&ring=0D9488&fire=0D9488&currStreakLabel=0D9488&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=57606A&stroke=D0D7DE" alt="GitHub contribution streak" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Aadil_Mohammed?font=Lexend%20Deca&border=0&colors=%230d1117,%2330363d,%23c9d1d9,%238b949e,%232dd4bf,%235cb85c,%23f0ad4e,%23d9534f" />
+    <img src="https://leetcard.jacoblin.cool/Aadil_Mohammed?font=Lexend%20Deca&border=0&colors=%23ffffff,%23d0d7de,%2324292f,%2357606a,%230d9488,%235cb85c,%23f0ad4e,%23d9534f" alt="LeetCode stats" width="49%" />
+  </picture>
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edenzyn&show_icons=true&hide_title=true&count_private=true&hide=prs" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edenzyn" alt="edenzyn" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenzyn&hide_title=true&layout=compact&count_private=true" width="400" />
-  <img src="https://leetcard.jacoblin.cool/Aadil_Mohammed?theme=white&font=Lexend%20Deca&extension=activity" width="400" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0F172A,50:134E4A,100:0D9488" alt="" width="100%" />
 </div>
-
-## 🤝 Open to Collaborations
-
-I'm always excited to collaborate on:
-- **Full-Stack Web Projects** with a focus on MERN stack
-- **SA-MP Game Modifications** that push the boundaries of what's possible in PAWN scripting
-- **Open Source Projects** where I can contribute my skills and learn from the community
-
-## ✨ Favorite Quote
-
-> **"Talk is cheap. Show me the code."**  
-> – *Linus Torvalds*
-
-## 📫 How to Reach Me
-
-- **Email:** [aadilmk10@gmail.com](mailto:aadilmk10@gmail.com)
-- **LinkedIn:** [Mohammed Aadil on LinkedIn](https://www.linkedin.com/in/mohammed-aadil-mk-37bbba2b1/)
-- **Discord:** edenzyn
-
-## ⚡ Fun Facts
-
-- When I'm not coding, you can find me playing games or exploring development on various platforms.
