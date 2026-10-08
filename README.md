@@ -28,8 +28,6 @@ I enjoy diving deep into different areas of development from system design and A
 
 When I'm not coding you’ll probably find me gaming or exploring something new in the world of software.
 
-Interested in my services, have a project to discuss, or just want to say hello? Reach me through any of the [social profiles](#social-profiles) below.
-
 ## Tech stack
 
 <p align="center">
@@ -88,78 +86,9 @@ I'm always excited to collaborate on:
 - **Full-stack web projects** with a focus on the MERN stack
 - **Open source projects** where I can contribute my skills and learn from the community
 
-## Social profiles
-
-Copy a username from its box, or hit **Open** to jump straight to the profile.
-
-<table align="center">
-<tr>
-<td><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn" /></td>
-<td>
-
-```text
-mohammed-aadil-mk-37bbba2b1
-```
-
-</td>
-<td align="center"><a href="https://www.linkedin.com/in/mohammed-aadil-mk-37bbba2b1/"><img src="https://img.shields.io/badge/Open_%E2%86%97-0D9488?style=for-the-badge" alt="Open LinkedIn" /></a></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></td>
-<td>
-
-```text
-aadilbinmhd
-```
-
-</td>
-<td align="center"><a href="https://www.instagram.com/aadilbinmhd"><img src="https://img.shields.io/badge/Open_%E2%86%97-0D9488?style=for-the-badge" alt="Open Instagram" /></a></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></td>
-<td>
-
-```text
-@edenXgt
-```
-
-</td>
-<td align="center"><a href="https://www.youtube.com/@edenXgt/videos"><img src="https://img.shields.io/badge/Open_%E2%86%97-0D9488?style=for-the-badge" alt="Open YouTube" /></a></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></td>
-<td>
-
-```text
-Aadil_Mohammed
-```
-
-</td>
-<td align="center"><a href="https://leetcode.com/u/Aadil_Mohammed/"><img src="https://img.shields.io/badge/Open_%E2%86%97-0D9488?style=for-the-badge" alt="Open LeetCode" /></a></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></td>
-<td>
-
-```text
-aadilmk10@gmail.com
-```
-
-</td>
-<td align="center"><a href="mailto:aadilmk10@gmail.com"><img src="https://img.shields.io/badge/Open_%E2%86%97-0D9488?style=for-the-badge" alt="Open Gmail" /></a></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></td>
-<td>
-
-```text
-edenzyn
-```
-
-</td>
-<td align="center">Add me by username</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/edenzyn-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: edenzyn" height="28" />
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0F172A,50:134E4A,100:0D9488" alt="" width="100%" />
